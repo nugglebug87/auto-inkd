@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.lovable.amber_voice_scribe.twa",
+        "sha256_cert_fingerprints": ["67:D9:8C:ED:1E:07:A0:72:5B:48:41:CD:16:3E:AF:94:1F:AD:86:10:1A:CA:14:32:2B:97:51:8E:49:7A:BB:C1"]
+      }
+    }]
